@@ -20,7 +20,7 @@ body{
   padding: 24px;
   background-color: #F0E8C2;
   border-radius: 24px;
-  margin: 24px auto;
+  margin: 24px auto 28px; 
 }
 
 img{
@@ -57,4 +57,14 @@ h1, h2{
 
 ul {
   padding-left: 124px;
+}
+
+footer{
+  color: #faecc5;
+  text-align: center;
+  padding: 48px;
+}
+
+ooter img{
+  vertical-align: middle;
 }
